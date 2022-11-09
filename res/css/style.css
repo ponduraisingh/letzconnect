@@ -43,6 +43,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .layout-7 {z-index:94;}
 .layout-8 {z-index:93;}
 .layout-9 {z-index:92;}
+.layout-9 {z-index:94;}
 .row-slope { position:relative; overflow: hidden; margin-top: -12vh; padding-top: 12vh}
 .row-slope.bottom .section { padding-bottom:12vh; }
 .row-slope .slope {
@@ -69,6 +70,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 	border-left-color: transparent !important;
 }
 .row-slope .slope.white { border-color: #FFFFFF; }
+.row-slope .slope.white80 { border-color: #F2F2F2; }
 .row-slope .slope.black80 { border-color: #212121; }
 .row-slope.bottom .slope { bottom:0; }
 .section { padding: 8vh 32px; min-height: 420px;}
@@ -88,10 +90,14 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .bg-white { background: #FFFFFF; }
 .bg-black { background: #000000; }
 .bg-black80 { background: #212121; }
+.bg-white80 { background: #F2F2F2; }
 .txt-red { color: #EE2931; }
 .txt-white { color: #FFFFFF; }
 .txt-black { color: #000000; }
 .txt-black80 { color: #212121; }
+.txt-black60 { color: #434343; }
+.txt-black40 { color: #636363; }
+.txt-white80 { color: #F2F2F2; }
 .l50 {left: 50%}
 .t0 {top: 0}
 .l0 {left: 0}
